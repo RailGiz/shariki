@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nx7MP68Dq10ti6/iza7T9MZJJ9Jo5em+CJGNhTMOPRtpGwxGQ7x7mYZcnPt//VBkdQQ6eV++WHhyr0InFRpuOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GAMING\\Desktop\\animation_circles-master\\2kL-2023-02-09-AnimDblBfr\\2kL-2023-02-09-AnimDblBfr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GAMING\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\GAMING\\.nuget\\packages\\mysqlconnector\\2.2.6\\mysqlconnector.2.2.6.nupkg.sha512",
+    "C:\\Users\\GAMING\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\GAMING\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
